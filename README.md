@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Hi, I'm Malaika Shaukat!  
+🎓 Software Engineering student at the University of Management and Technology (UMT), Pakistan  
+💻 Passionate about Python, AI/ML, and full-stack development  
+
+
 <!--
 **Malaika8712-ai/Malaika8712-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
